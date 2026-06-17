@@ -73,7 +73,7 @@ Instead of manually reverse-engineering a website's login flow, this tool:
 
 ```bash
 git clone https://github.com/MomenAbuAssi/Phishlets-Build.git
-cd zero-codex-phishlet-generator
+cd Phishlets-Build
 ```
 
 ### 2. Install Python dependencies
