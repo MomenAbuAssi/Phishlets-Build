@@ -19,7 +19,7 @@
 [![Evilginx3](https://img.shields.io/badge/Evilginx-3.x-red?style=for-the-badge)](https://github.com/kgretzky/evilginx2)
 [![License](https://img.shields.io/badge/License-Educational%20Use-yellow?style=for-the-badge)](#license)
 
-> **Developer:** Momen Abu Assi &nbsp;|&nbsp; **Project:** Zero Codex Engine
+> **Developer:** Momen Abu Assi &nbsp;|&nbsp; **Project:** ZeroCodeX
 
 </div>
 
@@ -106,7 +106,7 @@ playwright install-deps chromium
 ## 🚀 Usage
 
 ```bash
-python Auto-Generated__Phishlets.py
+python phishlet_generator.py
 ```
 
 The tool guides you through interactive prompts:
