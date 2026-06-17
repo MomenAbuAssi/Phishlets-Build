@@ -304,7 +304,7 @@ Only 9 whitelisted keys can appear in `force`:
 
 ```
 zero-codex-phishlet-generator/
-├── Auto-Generated__Phishlets.py   # Main script
+├── phishlet_generator.py          # Main script
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
 ├── .gitignore                     # Ignore phishlets output
